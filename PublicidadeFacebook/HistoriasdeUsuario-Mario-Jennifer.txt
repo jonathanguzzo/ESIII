@@ -1,6 +1,6 @@
-HistÛrias do Usu·rio
+Hist√≥rias do Usu√°rio
 
-O usu·rio entra com os dados do local a ser pesquisado; 
-O sistema procura por posts no facebook postados prÛximo do local pesquisado; 
-As informaÁıes ser„o armazenadas para posterior utilizaÁ„o; 
-Os locais onde foram postadas as informaÁıes, podem aparecer no google Maps; 
+H1- O usu√°rio entra com os dados do local a ser pesquisado; 
+H2- O sistema procura por posts no facebook postados pr√≥ximo do local pesquisado; 
+H3-  informa√ß√µes ser√£o armazenadas para posterior utiliza√ß√£o; 
+H4- Os locais onde foram postadas as informa√ß√µes, podem aparecer no google Maps; 
