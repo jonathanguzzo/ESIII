@@ -1,0 +1,6 @@
+HISTÓRIAS DO USUÁRIO
+
+H1- O usuário entra com os dados do local a ser pesquisado;
+H2- O sistema procura por posts no facebook postados próximo do local pesquisado;
+H3- As informações serão armazenadas para posterior utilização;
+H4- Os locais onde foram postadas as informações, podem aparecer no google Maps; 

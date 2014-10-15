@@ -1,0 +1,17 @@
+TESTE DE ACEITAÇÃO
+
+O sistema terá um campo para o usuário digitar a palavra chave
+para realizar a busca e um botão PESQUISAR para realizar essa ação.
+
+ENTRADA
+
+Buscar: <Porto Alegre>              PESQUISAR
+
+
+SAÍDA
+
+O sistema deve listar os posts da seguinte maneira: 
+Id - Nome da cidade - UF - Post
+
+
+1 - Porto Alegre - RS - Lerolerolerolerolerolero
