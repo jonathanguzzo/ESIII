@@ -13,4 +13,11 @@ public class CidadeTest {
 		
 	}
 
+	
+	@Test
+	public void testGetUfCidade() {
+		Cidade c = new Cidade(1,"Porto Alegre","RS","Hoje está chovendo");
+		assertEquals("RS", c.getUf());
+		
+	}
 }
