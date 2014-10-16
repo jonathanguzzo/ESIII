@@ -15,8 +15,10 @@ public class CidadeTest {
 	
 	@Test
 	public void testGetNomeCidade() {
+
 		Cidade c = new Cidade(1,"Viamão","RS","Hoje está chovendo");
 		assertEquals("Viamão", c.getNomecidade());
+
 		
 	}
 	
