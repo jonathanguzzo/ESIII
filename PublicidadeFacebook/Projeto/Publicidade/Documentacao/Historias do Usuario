@@ -1,6 +1,31 @@
 HISTÓRIAS DO USUÁRIO
 
-H1- O usuário entra com os dados do local a ser pesquisado;
-H2- O sistema procura por posts no facebook postados próximo do local pesquisado;
-H3- As informações serão armazenadas para posterior utilização;
-H4- Os locais onde foram postadas as informações, podem aparecer no google Maps; 
+H1-O usuário pode consultar os post de uma determinada cidade
+O usuário entra com os dados do local a ser pesquisado;
+O sistema procura por posts no facebook postados próximo do local pesquisado;
+As informações serão armazenadas para posterior utilização;
+Os locais onde foram postadas as informações, podem aparecer no google Maps; 
+
+Post
+Titulo 
+Texto
+Usuário
+Lat
+Long
+
+Ah negão Ah negão postou uma foto
+Bode Gaiato Sugestão do gaiato Sandro Dorato de Feira de Santana
+ADS da depressão
+
+
+
+
+
+Cidade
+Lat
+Long
+Nome
+
+Alvorada -29.99, -51.083889
+Viamão -30.080833, -51.022778
+Porto Alegre -30.032778, -51.23
