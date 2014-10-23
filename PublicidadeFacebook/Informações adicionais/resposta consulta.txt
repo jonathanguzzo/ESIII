@@ -1,0 +1,1101 @@
+{
+  "data": [
+    {
+      "id": "100006260237750_1550192048532788", 
+      "from": {
+        "id": "100006260237750", 
+        "name": "Anderson Cristian"
+      }, 
+      "story": "Anderson Cristian shared Rafael Antônio's video.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:58:32+0000", 
+      "updated_time": "2014-10-23T12:58:32+0000"
+    }, 
+    {
+      "id": "495271030602770_1504222053164187", 
+      "from": {
+        "category": "Spas/beauty/personal care", 
+        "category_list": [
+          {
+            "id": "146053955462002", 
+            "name": "Esthethics"
+          }, 
+          {
+            "id": "145118935550090", 
+            "name": "Medical & Health"
+          }
+        ], 
+        "name": "Clinica Bela Derme", 
+        "id": "495271030602770"
+      }, 
+      "story": "Clinica Bela Derme created an event.", 
+      "link": "https://www.facebook.com/events/1504222053164187/", 
+      "actions": [
+        {
+          "name": "Comment", 
+          "link": "https://www.facebook.com/495271030602770/posts/1504222053164187"
+        }, 
+        {
+          "name": "Like", 
+          "link": "https://www.facebook.com/495271030602770/posts/1504222053164187"
+        }
+      ], 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "link", 
+      "created_time": "2014-10-23T12:58:20+0000", 
+      "updated_time": "2014-10-23T12:58:20+0000"
+    }, 
+    {
+      "id": "495271030602770_350795541748039", 
+      "from": {
+        "category": "Spas/beauty/personal care", 
+        "category_list": [
+          {
+            "id": "146053955462002", 
+            "name": "Esthethics"
+          }, 
+          {
+            "id": "145118935550090", 
+            "name": "Medical & Health"
+          }
+        ], 
+        "name": "Clinica Bela Derme", 
+        "id": "495271030602770"
+      }, 
+      "story": "Clinica Bela Derme created an event.", 
+      "link": "https://www.facebook.com/events/350795541748039/", 
+      "actions": [
+        {
+          "name": "Comment", 
+          "link": "https://www.facebook.com/495271030602770/posts/350795541748039"
+        }, 
+        {
+          "name": "Like", 
+          "link": "https://www.facebook.com/495271030602770/posts/350795541748039"
+        }
+      ], 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "link", 
+      "created_time": "2014-10-23T12:57:01+0000", 
+      "updated_time": "2014-10-23T12:57:01+0000"
+    }, 
+    {
+      "id": "100002543224030_721124967982271", 
+      "from": {
+        "id": "100002543224030", 
+        "name": "Glauria Solange Alves Dantas"
+      }, 
+      "story": "Glauria Solange Alves Dantas shared Rafael Antônio's video.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Facebook for iPhone", 
+        "namespace": "fbiphone", 
+        "id": "6628568379"
+      }, 
+      "created_time": "2014-10-23T12:56:35+0000", 
+      "updated_time": "2014-10-23T12:56:35+0000"
+    }, 
+    {
+      "id": "100000049134134_871520179526278", 
+      "from": {
+        "id": "100000049134134", 
+        "name": "Cleiton Muniz Dos Santos"
+      }, 
+      "message": "Para aqueles que não conhecem história.......\nSE EU FOSSE FILIADO AO PSDB E VISSE ESSE VÍDEO JURO QUE MUDARIA IMEDIATAMENTE MEU VOTO!!\nDUVIDAM?\nOK...ASSISTAM ESSE VÍDEO ONDE DILMA ROUSSEF FALA DA SUA PRISÃO E DA TORTURA QUE SOFREU DURANTE A DITADURA, DEPOIS QUE ESSE ESCROTO DESSE AGRIPINO MAIA, ALIADO DE AÉCIO NEVES, QUESTIONA DILMA SOBRE O FATO DELA TER MENTIDO DURANTE AS SESSÕES DE TORTURA.\nVEJAM A RESPOSTA DELAAAAAAAAAAAAAAAAAAA!!!!!!!!\nSE PSDB E PT NÃO TIVESSEM NENHUM PROJETO DE GOVERNO...NENHUM...A PESSOA EM SI DA DILMA ROUSSEF SERIA INCOMPARAVELMENTE SUFICIENTE PARA QUE EU VOTASSE NELA.\nCOMPARAR A TRAJETÓRIA DO AÉCIO NEVES COM A DESSA MULHER PASSA, A PARTIR DE HOJE, A SER UMA AFRONTA PARA MIM!!\nPUTA QUE O PARIU!!!!!!!!!!!!!!!!!", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:55:46+0000", 
+      "updated_time": "2014-10-23T12:55:46+0000"
+    }, 
+    {
+      "id": "1743265188_4816544348505", 
+      "from": {
+        "id": "1743265188", 
+        "name": "Gustavo Portela"
+      }, 
+      "message": "Aos 19 ela defendeu o Brasil foi presa e torturada. Ele aprendia a arrumar a cama e era bancado pelo pai e a avô que trabalharam para ditadura. Dá pra entender a diferença?", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:54:40+0000", 
+      "updated_time": "2014-10-23T12:54:40+0000"
+    }, 
+    {
+      "id": "1828251432_10201792194326405", 
+      "from": {
+        "id": "1828251432", 
+        "name": "Geslaney Brito"
+      }, 
+      "message": "A biografia de quem lutou contra a ditadura militar. Onde não havia \"espaço para a verdade\". \n\n\n#Dilma13", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:54:07+0000", 
+      "updated_time": "2014-10-23T12:54:07+0000"
+    }, 
+    {
+      "id": "100003131935122_685909011523490", 
+      "from": {
+        "id": "100003131935122", 
+        "name": "Sonia Arrabal"
+      }, 
+      "message": "Verdades sobre a ditadura ditas por quem viveu e sentiu na pele esse terror. Dilma foi presa, torturada não porque roubava bancos como dizem alguns desenformados, mas por lutar para que tivéssemos hoje o direito de nos expressar, de falar até asneiras as vezes, por deixarmos de aproveitar essa conquista e dizermos coisas transformadoras para nossas vida. E por isso que eu sou #Dilma13", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Facebook for iPhone", 
+        "namespace": "fbiphone", 
+        "id": "6628568379"
+      }, 
+      "created_time": "2014-10-23T12:54:03+0000", 
+      "updated_time": "2014-10-23T12:54:03+0000"
+    }, 
+    {
+      "id": "1423596267_10205288721403909", 
+      "from": {
+        "id": "1423596267", 
+        "name": "Leandro Souza"
+      }, 
+      "story": "Leandro Souza shared Rafael Antônio's video.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Facebook for Android", 
+        "namespace": "fbandroid", 
+        "id": "350685531728"
+      }, 
+      "created_time": "2014-10-23T12:52:42+0000", 
+      "updated_time": "2014-10-23T12:52:42+0000"
+    }, 
+    {
+      "id": "169530236575472_296571413871353", 
+      "from": {
+        "category": "Community", 
+        "name": "Projetos Ambientais - SENAC", 
+        "id": "169530236575472"
+      }, 
+      "story": "Projetos Ambientais - SENAC shared a link.", 
+      "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAaRnE3QXBbAHsc&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FsNPEDXmMcUQ%2Fhqdefault.jpg", 
+      "link": "https://www.youtube.com/watch?v=sNPEDXmMcUQ", 
+      "source": "http://www.youtube.com/v/sNPEDXmMcUQ?version=3&autohide=1&autoplay=1", 
+      "name": "Juntos podemos parar a degradação da terra!", 
+      "description": "A personagem Liloe, uma adolescente de 15 anos que vive no Quênia, sabe a importância de se proteger os solos do avanço das áreas de pasto, do desmatamento e...", 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif", 
+      "actions": [
+        {
+          "name": "Comment", 
+          "link": "https://www.facebook.com/169530236575472/posts/296571413871353"
+        }
+      ], 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "application": {
+        "name": "Links", 
+        "id": "2309869772"
+      }, 
+      "created_time": "2014-10-23T12:51:55+0000", 
+      "updated_time": "2014-10-23T12:51:55+0000"
+    }, 
+    {
+      "id": "100000117785089_954868917860359", 
+      "from": {
+        "id": "100000117785089", 
+        "name": "Tiago Leite"
+      }, 
+      "message": "Muito bom. Alguém que realmente lutou pela construção da democracia no país. Aí alguns vão acusá-la de terrorismo!! aiai...", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:50:02+0000", 
+      "updated_time": "2014-10-23T12:50:02+0000"
+    }, 
+    {
+      "id": "100000016952389_868400269837197", 
+      "from": {
+        "id": "100000016952389", 
+        "name": "Simone Muniz"
+      }, 
+      "to": {
+        "data": [
+          {
+            "id": "1513900207", 
+            "name": "Fátima Amorim"
+          }, 
+          {
+            "id": "100002392598092", 
+            "name": "Quiteria Gomes"
+          }
+        ]
+      }, 
+      "message": "III WORKSHOP DE GASTRONOMIA \nIFAL - Marechal Deodoro\nMinistrei ontem a aula show \" A arte e o ofício da cozinha fria\". \nObrigada toda turma do Ifal, sempre parceiros. Fátima Amorim, Quiteria Gomes adorei estar com vocês mais uma vez neste evento que entrou pra agenda Alagoana,  valorizando nossa culinária e revelando talentos desse povo guerreiro. Agradecer aos parceiros Harald, Copra, Pescados & cia, Maceió convention pelos brindes super úteis.  . Agradecer aos alunos do curso de cozinheiro do senac pelo auxilio e participação. Agradecer aos participantes do evento por esse momento de troca de conhecimentos e pela sala cheia, hurunmm :)\n- quem tiver foto dos pratos e da turma manda pra mim. Rsss.\nValeu!", 
+      "message_tags": {
+        "167": [
+          {
+            "id": "1513900207", 
+            "name": "Fátima Amorim", 
+            "type": "user", 
+            "offset": 167, 
+            "length": 13
+          }
+        ], 
+        "182": [
+          {
+            "id": "100002392598092", 
+            "name": "Quiteria Gomes", 
+            "type": "user", 
+            "offset": 182, 
+            "length": 14
+          }
+        ]
+      }, 
+      "story": "Simone Muniz added 9 photos.", 
+      "picture": "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/q84/s75x225/10410906_868399983170559_511917492020759435_n.jpg?oh=1eebe685ed45ba50f6552ae172c90af0&oe=54EA3E80&__gda__=1421325695_efb1aeac646da7f0250084e3e3f85476", 
+      "link": "https://www.facebook.com/photo.php?fbid=868399983170559&set=pcb.868400269837197&type=1&relevant_count=9", 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "photo", 
+      "object_id": "868399983170559", 
+      "application": {
+        "name": "Facebook for Android", 
+        "namespace": "fbandroid", 
+        "id": "350685531728"
+      }, 
+      "created_time": "2014-10-23T12:49:59+0000", 
+      "updated_time": "2014-10-23T12:53:13+0000"
+    }, 
+    {
+      "id": "100001888401765_746776925395247", 
+      "from": {
+        "id": "100001888401765", 
+        "name": "Carlos Cantuária Salim Salim"
+      }, 
+      "message": "Inclua-me no rol de pessoas orgulhosas pela Presidente que tem. Dilma 13.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:48:20+0000", 
+      "updated_time": "2014-10-23T12:48:20+0000"
+    }, 
+    {
+      "id": "100002177974946_717255678357025", 
+      "from": {
+        "id": "100002177974946", 
+        "name": "Eduardo Braga"
+      }, 
+      "message": "\"Assino embaixo - Dilma me representa! E é por isso que eu voto 13!\nEsse vídeo me trouxe algumas reflexões. Já disse e repito: não acho que está tudo uma maravilha; como muitos, me decepcionei com o PT; tenho sérias críticas ao governo; fui para as ruas, fiz greve - e farei novamente se for necessário, seja qual for o presidente eleito. Mas UM dos muitos motivos que me levam a optar pela Dilma é o respeito que nutro pela sua história de vida. Porque penso que a história das pessoas constitui sua identidade. Lamento profundamente os ataques que vem sendo feitos, há tempos, à imagem da presidenta. Sei que um presidente ou presidenta deve estar sujeito à críticas, mas repudio as \"críticas\" baseadas na sua aparência física, sua suposta orientação sexual, seu modo de falar e atá sua inteligência, assim como repudiei o grito desrespeitoso no maracanã. Estamos lidando com a política como lidamos com o futebol. Por isso afirmo que não a idolatro, mas a respeito e a admiro. Dilma me representa! E é por isso que eu voto 13!\"", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:46:13+0000", 
+      "updated_time": "2014-10-23T12:46:13+0000"
+    }, 
+    {
+      "id": "1265030969_10204705924189057", 
+      "from": {
+        "id": "1265030969", 
+        "name": "Anna Júlia Clementino"
+      }, 
+      "to": {
+        "data": [
+          {
+            "id": "100000680588696", 
+            "name": "Lucas Clementino"
+          }
+        ]
+      }, 
+      "message": "Quem lutou pelo Brasil com a própria pele, sabe o que é ser #coracaovalente!\nLucas Clementino", 
+      "message_tags": {
+        "77": [
+          {
+            "id": "100000680588696", 
+            "name": "Lucas Clementino", 
+            "type": "user", 
+            "offset": 77, 
+            "length": 16
+          }
+        ]
+      }, 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:43:37+0000", 
+      "updated_time": "2014-10-23T12:43:37+0000"
+    }, 
+    {
+      "id": "1805794832_10201784526813974", 
+      "from": {
+        "id": "1805794832", 
+        "name": "Cristina Brander"
+      }, 
+      "message": "É DILMA CORAÇÃO VALENTE!! #DilmamudamaisDilma13", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:42:26+0000", 
+      "updated_time": "2014-10-23T12:42:26+0000"
+    }, 
+    {
+      "id": "100000327878227_836316033055985", 
+      "from": {
+        "id": "100000327878227", 
+        "name": "Wiliam Romanholi"
+      }, 
+      "message": "Onde foi parar essa capacidade de se comunicar da Dilma desde que foi empossada presidente? J\ná duvidava da sanidade desta personagem, mas me parece que em algum momento ela teve essa capacidade. Para quem também duvidava ai está um discurso aceitável da Dilma ( não falo de teor, mas sim, de clareza na exposição de ideias)\nOBS: Não sou a favor da Dilma e nem do Pt.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:42:15+0000", 
+      "updated_time": "2014-10-23T12:42:15+0000"
+    }, 
+    {
+      "id": "100001324549104_734678279919650", 
+      "from": {
+        "id": "100001324549104", 
+        "name": "Daniela Domingues Santos"
+      }, 
+      "to": {
+        "data": [
+          {
+            "category": "Hotel", 
+            "category_list": [
+              {
+                "id": "164243073639257", 
+                "name": "Hotel"
+              }
+            ], 
+            "name": "Hotel Fazenda Serras Verdes Adventure", 
+            "id": "306466192889299"
+          }
+        ]
+      }, 
+      "message": "Amigos nao estranhem enviar convites para vcs sobre o Hotel Fazenda Serras Verdes Adventure é um projeto de Empresa Simulada aplicada no SENAC.\nA Feira de Eventos sera realizada no dia 06 de Novembro em Espaço Aberto ao publico.Agradeço o apoio e o carinho de todos que de uma forma ou outra vem nos ajudando neste projeto.", 
+      "message_tags": {
+        "54": [
+          {
+            "id": "306466192889299", 
+            "name": "Hotel Fazenda Serras Verdes Adventure", 
+            "type": "page", 
+            "offset": 54, 
+            "length": 37
+          }
+        ]
+      }, 
+      "picture": "https://scontent-a.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/s75x225/10339769_734675049919973_4592192321966911850_n.jpg?oh=bd30710696753cdd619a70650f4ce597&oe=54B8E59E", 
+      "link": "https://www.facebook.com/photo.php?fbid=734675049919973&set=pcb.734678279919650&type=1&relevant_count=3", 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "photo", 
+      "object_id": "734675049919973", 
+      "created_time": "2014-10-23T12:40:17+0000", 
+      "updated_time": "2014-10-23T12:40:17+0000"
+    }, 
+    {
+      "id": "100003786010903_527457830723746", 
+      "from": {
+        "id": "100003786010903", 
+        "name": "Preslley Guedes"
+      }, 
+      "story": "Preslley Guedes shared Rafael Antônio's video.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:39:41+0000", 
+      "updated_time": "2014-10-23T12:39:41+0000"
+    }, 
+    {
+      "id": "1197775470_10205188685495546", 
+      "from": {
+        "id": "1197775470", 
+        "name": "Denise De Lima Araújo"
+      }, 
+      "message": "Pequena aula de história, para os \"toddynhos\"que acham que a ditadura foi uma falácia...", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:37:44+0000", 
+      "updated_time": "2014-10-23T12:37:44+0000"
+    }, 
+    {
+      "id": "100001813136771_760419307361833", 
+      "from": {
+        "id": "100001813136771", 
+        "name": "Daniel Gadelha"
+      }, 
+      "message": "Um abraço ae!", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:35:31+0000", 
+      "updated_time": "2014-10-23T12:35:31+0000"
+    }, 
+    {
+      "id": "1811521066_10202000390770629", 
+      "from": {
+        "id": "1811521066", 
+        "name": "Carla Diegues"
+      }, 
+      "to": {
+        "data": [
+          {
+            "id": "1840050430", 
+            "name": "Leonardo Diegues"
+          }, 
+          {
+            "id": "100006836672431", 
+            "name": "Jose Luiz"
+          }, 
+          {
+            "id": "100005357198225", 
+            "name": "Marilene Diegues"
+          }, 
+          {
+            "id": "1600515802", 
+            "name": "Patricia Helena"
+          }, 
+          {
+            "id": "100001462782319", 
+            "name": "Maria Fernanda Prado"
+          }, 
+          {
+            "id": "100002731682714", 
+            "name": "Meire Prado Pedroso"
+          }, 
+          {
+            "id": "100002672472334", 
+            "name": "Rebeca Guimarães"
+          }, 
+          {
+            "id": "100000447719288", 
+            "name": "Victor Prado"
+          }, 
+          {
+            "id": "100001197488563", 
+            "name": "Julis Prado"
+          }, 
+          {
+            "id": "1317931714", 
+            "name": "Camilla Fernandez"
+          }, 
+          {
+            "id": "1545105879", 
+            "name": "Jose Ricardo Amaro"
+          }, 
+          {
+            "id": "100000023462018", 
+            "name": "André Luis Pio D'Anunzio"
+          }, 
+          {
+            "category": "Kitchen/cooking", 
+            "name": "Marisol Guimarães", 
+            "id": "1472071299677122"
+          }, 
+          {
+            "category": "Food/grocery", 
+            "category_list": [
+              {
+                "id": "162264673824073", 
+                "name": "Specialty Grocery Store"
+              }
+            ], 
+            "name": "Empório Villa Borghese", 
+            "id": "205747479561731"
+          }, 
+          {
+            "category": "Local business", 
+            "category_list": [
+              {
+                "id": "192661127431931", 
+                "name": "Wine Bar"
+              }, 
+              {
+                "id": "273819889375819", 
+                "name": "Restaurant"
+              }
+            ], 
+            "name": "Enoteca Decanter | Santos", 
+            "id": "269337549747740"
+          }, 
+          {
+            "category": "Local business", 
+            "category_list": [
+              {
+                "id": "187827497907070", 
+                "name": "Bakery"
+              }
+            ], 
+            "name": "Rainha da Barra", 
+            "id": "223715327641486"
+          }, 
+          {
+            "category": "Education", 
+            "category_list": [
+              {
+                "id": "365182493518892", 
+                "name": "School"
+              }, 
+              {
+                "id": "144971758897076", 
+                "name": "Specialty School"
+              }
+            ], 
+            "name": "Senac São Paulo", 
+            "id": "341729352806"
+          }
+        ]
+      }, 
+      "message": "Amados amigos, como é maravilhoso fazer aniversário! Sabemos do carinho, amizade, amor que recebemos diariamente, sejam dos filhos, marido, pais, primos, tios, colegas de trabalho, mas na data de nosso aniversário essa ENERGIA SE POTENCIALIZA, de forma tamanha, que ficamos tontos não é mesmo? Tenho recebido a graça do PAI de estar em clientes / amigos,em sala de aula, nessa data. O carinho recebido , os abraços , são tão carregados de LUZ, que é injusto aniversariarmos uma vez só no ano!!! kkkkkkk .\nMeu filho amado e ÚNICO Leonardo Diegues,fez-me chorar com tamanha 'grandeza\" naquele espírito tão \"novo\" com declarado amor e gratidão, marido como sempre atencioso e surpreendente Jose Luiz, mãe Marilene Diegues ,irmão Luciano Diegues, cunhadas, Patricia Helena,Maria Maria Fernanda Prado Neuziene;sogrinha, Meire Prado Pedroso sobrinhas amadas Rebeca Guimarães, Isabela, sobrinho querido Victor Prado, Julis Prado, Camilla Fernandez, Amigo e compadre Jose Ricardo Amaro, Amigo irmão André Luis Pio D'Anunzio, amigos/clientes \"alunos\", que mais aprendo do que ensino, de verdade! presentearam-me com sua LUZ e AMOR em sala . As mensagens por face, Whats, emails, telefonemas todos carregados de muito, muito carinho, força, e FÉ. Amo CADA UM DE VOCÊS, com muita força e GRATIDÃO! Marisol Guimarães querida, seu bolo estava com tanto amor que devo ter recuperado todos os quilos doados! kkkk, Empório Villa Borghese, Enoteca Decanter | Santos, Rainha da Barra,  Senac São Paulo,equipes e diretorias, MINHA ETERNA GRATIDÃO! Um fraterno abraço e que DEUS continue cobrindo-lhes de bençãos e luz e que me permita continuar compartilhando desse ambiente de crescimento, garra, força , FÉ e AMOR!", 
+      "message_tags": {
+        "529": [
+          {
+            "id": "1840050430", 
+            "name": "Leonardo Diegues", 
+            "type": "user", 
+            "offset": 529, 
+            "length": 16
+          }
+        ], 
+        "687": [
+          {
+            "id": "100006836672431", 
+            "name": "Jose Luiz", 
+            "type": "user", 
+            "offset": 687, 
+            "length": 9
+          }
+        ], 
+        "702": [
+          {
+            "id": "100005357198225", 
+            "name": "Marilene Diegues", 
+            "type": "user", 
+            "offset": 702, 
+            "length": 16
+          }
+        ], 
+        "753": [
+          {
+            "id": "1600515802", 
+            "name": "Patricia Helena", 
+            "type": "user", 
+            "offset": 753, 
+            "length": 15
+          }
+        ], 
+        "775": [
+          {
+            "id": "100001462782319", 
+            "name": "Maria Fernanda Prado", 
+            "type": "user", 
+            "offset": 775, 
+            "length": 20
+          }
+        ], 
+        "815": [
+          {
+            "id": "100002731682714", 
+            "name": "Meire Prado Pedroso", 
+            "type": "user", 
+            "offset": 815, 
+            "length": 19
+          }
+        ], 
+        "852": [
+          {
+            "id": "100002672472334", 
+            "name": "Rebeca Guimarães", 
+            "type": "user", 
+            "offset": 852, 
+            "length": 16
+          }
+        ], 
+        "896": [
+          {
+            "id": "100000447719288", 
+            "name": "Victor Prado", 
+            "type": "user", 
+            "offset": 896, 
+            "length": 12
+          }
+        ], 
+        "910": [
+          {
+            "id": "100001197488563", 
+            "name": "Julis Prado", 
+            "type": "user", 
+            "offset": 910, 
+            "length": 11
+          }
+        ], 
+        "923": [
+          {
+            "id": "1317931714", 
+            "name": "Camilla Fernandez", 
+            "type": "user", 
+            "offset": 923, 
+            "length": 17
+          }
+        ], 
+        "959": [
+          {
+            "id": "1545105879", 
+            "name": "Jose Ricardo Amaro", 
+            "type": "user", 
+            "offset": 959, 
+            "length": 18
+          }
+        ], 
+        "991": [
+          {
+            "id": "100000023462018", 
+            "name": "André Luis Pio D'Anunzio", 
+            "type": "user", 
+            "offset": 991, 
+            "length": 24
+          }
+        ], 
+        "1287": [
+          {
+            "id": "1472071299677122", 
+            "name": "Marisol Guimarães", 
+            "type": "page", 
+            "offset": 1287, 
+            "length": 17
+          }
+        ], 
+        "1399": [
+          {
+            "id": "205747479561731", 
+            "name": "Empório Villa Borghese", 
+            "type": "page", 
+            "offset": 1399, 
+            "length": 22
+          }
+        ], 
+        "1423": [
+          {
+            "id": "269337549747740", 
+            "name": "Enoteca Decanter | Santos", 
+            "type": "page", 
+            "offset": 1423, 
+            "length": 25
+          }
+        ], 
+        "1450": [
+          {
+            "id": "223715327641486", 
+            "name": "Rainha da Barra", 
+            "type": "page", 
+            "offset": 1450, 
+            "length": 15
+          }
+        ], 
+        "1468": [
+          {
+            "id": "341729352806", 
+            "name": "Senac São Paulo", 
+            "type": "page", 
+            "offset": 1468, 
+            "length": 15
+          }
+        ]
+      }, 
+      "picture": "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/s75x225/10417545_10202000365650001_2295199425934234828_n.jpg?oh=0ad4b7f098e75a5665b49706494207e4&oe=54E4D365&__gda__=1424981152_38237d864457cba1a352755a578c0819", 
+      "link": "https://www.facebook.com/photo.php?fbid=10202000365650001&set=pcb.10202000390770629&type=1&relevant_count=2", 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "photo", 
+      "object_id": "10202000365650001", 
+      "created_time": "2014-10-23T12:32:24+0000", 
+      "updated_time": "2014-10-23T12:53:48+0000"
+    }, 
+    {
+      "id": "100000024232673_887319937945472", 
+      "from": {
+        "id": "100000024232673", 
+        "name": "Joaquim Brandão Reis"
+      }, 
+      "story": "Joaquim Brandão Reis shared Rafael Antônio's video.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:29:47+0000", 
+      "updated_time": "2014-10-23T12:29:47+0000"
+    }, 
+    {
+      "id": "1626698632_10204520526566288", 
+      "from": {
+        "id": "1626698632", 
+        "name": "Grazi Moura"
+      }, 
+      "message": "#COMPARTILHO!", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:29:03+0000", 
+      "updated_time": "2014-10-23T12:29:03+0000"
+    }, 
+    {
+      "id": "100004576231076_367086356787236", 
+      "from": {
+        "id": "100004576231076", 
+        "name": "João Paulo Paz"
+      }, 
+      "story": "João Paulo Paz shared Rafael Antônio's video.", 
+      "picture": "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xpa1/v/t15.0-10/10604771_366488890185486_366457370188638_12908_1957_t.jpg?oh=d980cb8fdfe2de4a529b12b4c130bca6&oe=54B4FFFB&__gda__=1425249514_7e39f42231ed4ad47ea061d707a96521", 
+      "link": "https://www.facebook.com/video.php?v=366457370188638", 
+      "source": "https://scontent-b.xx.fbcdn.net/hvideo-xap1/v/t42.1790-2/1480159_366490790185296_1721462827_n.mp4?oh=e484dae4f1ea1fb392a46f1bfc012a3a&oe=544B4C2B", 
+      "description": "Da ultima vez que chamaram DILMA de mentirosa...\n\nEssa é a história da nossa PRESIDENTA DILMA!\n\nMUITO ORGULHO!\n\nCompartilhem!\n\nJoão Marcelo Borges\nJuliana Lacerda\nMorgana Lacerda\nBruno Nunes Machado\nBeto Santa Cruz\nManoel Oliveira\nKaio Nunes Machado\nArtur Garcéa\nPriscila Sousa\nDiogo Rueda\nJoão Victor Felix\nJoão Gondim\nFrancisco Gondim\nSamuel Borges\nMarcelo Tas\nRicardo Paris\nMaria Luiza Agrelli Paschoal\nMaria Eduarda Figlioulo\nMaria Oliveira\nMaria Elizabeth Sodré\nMaria Karolina Sodré\nMariana Souto Lima\nMariana Burlamaqui\nMaria Lídia Rodrigues\nMariana Nascimento\nAlmir Cunha\nAmanda Godoy\nAmanda Cano\nAna Harten\nAnna Claudia Aguiar\nBernardo Tairã Silva Botelho\nBruce Kepler\nCarlos Alberto Castro\nDébora S. Britto\nDéborah D'Emery\nDébora Ramos\nConselho Regional de Contabilidade em Pernambuco\nEmanuella Casado\nFelipe Vasco\nFernando De Aquino Fonseca Neto\nFernando Lins\nErlan Fernandes\nGabriel Rangel\nGabriel Dutra\nGabriella Rodrigues\nAna Lígia Almeida\nJacqueline Almeida\nGilú Amaral\nIsabela Rabello\nIsabella Bittencourt\nIsabele Nerissa\nIsabela Keusen\nLis Veras\nLuísa Duque Belfort\nLuísa Araújo\nLuisa Gabriela Oliveira\nLuisa Mell\nMariana Wetters\nMariana Amorim\nMariana Cavalcanti\nMariana Lins\nMariana Sobral\nMariana Esposito\nMariana Sousa\nMariana Calazans\nMariá Vasconcelos Botelho\nMaria Eduarda Martins\nMaria Liberal\nVAMOS ACHAR MARI\nAna Maria Cavalcanti\nMaria Gabriella Melo\nMaria Eduarda Lemos\nMaria Eduarda Fernandes\nMaria Cecília Albuquerque\nMaria Eduarda OG\nMaria Carolina Silva\nMarianna Paiva\nMaria Adélia Zirpoli\nMaria Eduarda Tenório\nMaria Carolina Paiva\nMaria Eduarda Viana\nSka Maria Pastora\nMaria Bethânia\nMariana Lins\nÂngela Maria Dos Santos\nMariana Victor\nEduarda Loranne Dos Santos Bombazar\nEduarda Vasconcelos\nEduarda Lubambo\nDuda Melo\nLuiz Eduardo\nEduardo Rodrigo\nEduardo Cardoso\nEduardo Torres\nEduardo Albuquerque\nEduardo Cani\nEduardo Aquino\nEduardo Albuquerque\nEduardo Sampaio\nLuiz Henrique Albuquerque\nAndre Gustavo Carlini\nGustavo Veras\nGustavo Moraes\nGustavo Santos\nGustavo Gusmão\nGustavo Homero\nGustavo Cauê\nGustavo Ottoni\nGustavo Cavalcanti\nMatheus Padovani\nMatheus Vidal\nMatheus Beltrão\nMatheus Leocádio\nMatheus Lins\nSérgio Matheus\nMatheus Santana\nMateus Lima\nMateus Lima\nMateus Lacerda\nWill Lacerda\nWill Smith\nMombojó\nOTTO\nOtto Schmidt Art\nOtto Knows\nLuiz Gonzaga Belluzzo\nLuiz Geraldo\nLuiz Henrique Ferreira\nLuiz Melo\nLuiz Felipe Soares\nLuiz Octávio\nRafael Luiz Pimentel\nLuiz Antonio\nLuiz Henrique Reis\nLuiz Fernando\nLuiz Gonzaga\nLuiz Marins\nKarla Santana\nCarla Rygaard\nLarissa Silva\nLa Fênix Vídeos\nFederación de Colegios de Economistas de la República Mexicana\nLa Cucina Pizzeria\nLarissa H. Melo\nLarissa Vieira\nLaíssa Meireles\nLuciano Glauber\nRamses Xavier\nRamsés Xavier\nMarilia Lacerda\nMarília Dornelas\nMarília Oliveira\nMarília Nepomuceno Pinheiro\nMarília Lacerda Produções - Inovação em maquiagem e penteados.\nMilenne Pereira\nMilena Cavalcanti\nPalestrante Roberto Dias Duarte\nRoberto Dias Duarte\nRoberto Falcão\nRoberta Lapenda\nRoberta Camarotti\nMaura Roberta Peregrino\nPedro Roberto Sobrinho\nRoberto Falcão - Língua Portuguesa\nRobert Downey Jr\nBeto Filgueiras\nBeto Menezes\nBeto Eiras\nCarlos Beto\nBeto Richa\nBeto Albuquerque\nRebeca Sá-Carneiro\nRebeca Oliveira\nRebeca Araújo\nRafael Antônio\nRafaela Gomes\nRafael Antônio\nRafael Cabral\nRafael Silva\nRafael Cruz\nRafaelle Guedes\nRafael Alves\nRafaela Cabral\nCarlos Rafael Miranda\nRafael Cunha\nRafaela Cavalcanti Lira\nClaudia Rafaela\nRafael Apolinário\nRafael Oliveira\nRafael de Queiroz\nRafael Rodrigues de Souza\nJoão Rafaell\nRafael Mattos\nRafael CoelhoRafael Neves Rafael Prates Rafael QueirozRafael ZimmerleRafael AzevedoRafael Burgos Rafaela Dutra Rafaella Rocha Rafaela Pinho PE Com Dilma13 PE no Carnaval JC TrânsitoRádio JC NewsBlog de Jamildo Bom Dia Brasil Jornal Hoje em Dia | Portal HD Dario\nPE in London PE InvestimentoCine PeInformeVagas PEGlobo Esporte PeDiario de Pernambuco SESCAP-PernambucoDiário PernambucanoFIEPE - Federação das Indústrias do Estado de Pernambuco Pernambuco.comSebrae Em PernambucoCopa de Pernambuco 2018Universidade Católica de PernambucoUniversidade Católica de PernambucoGiro Publicitário - Diário de PernambucoFliporto - Festa Literária de PernambucoEstágios PernambucoFaculdade Senac PernambucoEmprego Pra Ontem - PernambucoItaipava Arena PernambucoBienal do Livro - PernambucoGlobo Esporte De PernambucoSan Francisco 49ers BrasilBBC BrasilYahoo BrasilFOX Sports BrasilBrasil de FatoBrasil DebateFernando BrasileiroPlayboy BrasilAXN BrasilNathália BrasilStudio Universal BrasilCanal History BrasilLoveFútbol BrasilTBS BrasilTNT BrasiltruTV BrasilUniversal Channel BrasilWarner Channel BrasilVh1 BrasilBrasil EconômicoCanal FX BrasilDiscovery Civilization BrasilCanal FOX BrasilTLC BrasilDiscovery BrasilInstituto Mises BrasilX Games BrasilSpace BrasilCitroën do BrasilSKY BrasilTCM BrasilSony Spin BrasilUm Guia Politicamente Incorreto da História do BrasilCanal Sony BrasilCanal BrasilDiscovery Science BrasilDiscovery Turbo BrasilCinemax BrasilHUNG BRASILHBO BrasilHBO The Pacific BrasilHBO Boardwalk Empire BrasilHBO Mad Men BrasilHBO The Wannabes BrasilHBO True Blood BrasilO Espetacular Homem-Aranha (Brasil)PNUD BrasilLegendas BrasilTeeNOW BrasilConcursos no BrasilFox Life BrasilRevista Rolling Stone BrasilRenault Clube BrasilMizuno BrasilVeduca BrasilBrasil EquipadoraNFL BrasilThe Strokes BrasilHellmann's BrasilSony BrasilSamsung BrasilGillette BrasilMTV BrasilHabib's BrasilSOAP BrasilKaizen Institute BrasilSociedade Brasileira de Coaching", 
+      "properties": [
+        {
+          "name": "Length", 
+          "text": "4:55"
+        }
+      ], 
+      "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+      "privacy": {
+        "value": ""
+      }, 
+      "type": "video", 
+      "object_id": "366457370188638", 
+      "application": {
+        "name": "Video", 
+        "namespace": "video", 
+        "id": "2392950137"
+      }, 
+      "created_time": "2014-10-23T12:28:04+0000", 
+      "updated_time": "2014-10-23T12:28:04+0000"
+    }
+  ], 
+  "paging": {
+    "previous": "https://graph.facebook.com/v1.0/search?type=post&q=senac&limit=25&since=1414069112", 
+    "next": "https://graph.facebook.com/v1.0/search?type=post&q=senac&limit=25&until=1414067283"
+  }
+}
