@@ -11,6 +11,12 @@ public class Cidade {
 		this.nomeCidade = nomecidade;
 		this.uf = uf;
 	}
+	
+	public Cidade(String nomecidade) {
+		super();
+		this.nomeCidade = nomecidade;
+	}
+	
 
 	public int getIdCidade() {
 		return idCidade;

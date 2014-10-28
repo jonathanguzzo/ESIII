@@ -6,9 +6,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
 import com.conexao.PreparaConexao;
 import com.models.Cidade;
+
+
 
 public class CidadeDAOBD extends PreparaConexao implements CidadeDAO {
 
