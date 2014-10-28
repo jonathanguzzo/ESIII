@@ -11,6 +11,5 @@ public interface CidadeDAO {
 
 	public Cidade getCidadePorNome(String nomeCidade);
 	
-	//public String getProdutosString();
 	
 }// fim da classe

@@ -67,6 +67,7 @@ public class Janela extends JFrame {
 
 		@Override
 		public void actionPerformed(ActionEvent e) {
+			txaMostrar.setText(txPesquisar.getText());
 			
 			
 		}

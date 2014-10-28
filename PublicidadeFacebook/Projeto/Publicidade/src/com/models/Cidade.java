@@ -3,14 +3,13 @@ package com.models;
 public class Cidade {
 
 	int idCidade;
-	String nomecidade,uf,post;
+	String nomeCidade,uf;
 	
-	public Cidade(int idCidade, String nomecidade, String uf, String post) {
+	public Cidade(int idCidade, String nomecidade, String uf) {
 		super();
 		this.idCidade = idCidade;
-		this.nomecidade = nomecidade;
+		this.nomeCidade = nomecidade;
 		this.uf = uf;
-		this.post = post;
 	}
 
 	public int getIdCidade() {
@@ -22,11 +21,11 @@ public class Cidade {
 	}
 
 	public String getNomecidade() {
-		return nomecidade;
+		return nomeCidade;
 	}
 
 	public void setNomecidade(String nomecidade) {
-		this.nomecidade = nomecidade;
+		this.nomeCidade = nomecidade;
 	}
 
 	public String getUf() {
@@ -35,14 +34,6 @@ public class Cidade {
 
 	public void setUf(String uf) {
 		this.uf = uf;
-	}
-
-	public String getPost() {
-		return post;
-	}
-
-	public void setPost(String post) {
-		this.post = post;
 	}
 		
 }//fim da classe

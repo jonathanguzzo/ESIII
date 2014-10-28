@@ -22,8 +22,7 @@ public class CidadeDAOBD extends PreparaConexao implements CidadeDAO {
 				Cidade cidade = new Cidade(
 						resultado.getInt("idCidade"),
 						resultado.getString("nomeCidade"),
-						resultado.getString("uf"),
-						resultado.getString("post")
+						resultado.getString("uf")
 						);
 				listaCidades.add(cidade);
 			} 
@@ -34,19 +33,19 @@ public class CidadeDAOBD extends PreparaConexao implements CidadeDAO {
 		}
 		return (listaCidades);
 	}
+	
 
 	@Override
 	public Cidade getCidadePorNome(String nomeCidade) {
 		try {
-			conexaoPrepared("select * from cidade where nomeCIdade=?");
+			conexaoPrepared("select * from cidade where nomeCidade=?");
 			comando.setString(1, nomeCidade);
 			ResultSet resultado = comando.executeQuery();
 			while (resultado.next()) {
 				Cidade cidade = new Cidade(
 						resultado.getInt("idCidade"),
 						resultado.getString("nomeCidade"),
-						resultado.getString("uf"),
-						resultado.getString("post")
+						resultado.getString("uf")
 						);
 				return cidade;
 			}			
@@ -58,26 +57,5 @@ public class CidadeDAOBD extends PreparaConexao implements CidadeDAO {
 		return (null);
 	}
 
-/*	@Override
-	public String getProdutosString() {
-		String produtos="";
-		try {
-			conexaoPrepared	("select * from produtos");
-			ResultSet resultado = comando.executeQuery();
-			while (resultado.next()) {
-				produtos+="Codigo do produto : "+ resultado.getInt("codproduto")
-						+"\nNome: "+ resultado.getString("nome")
-						+"\nTipo: "+ resultado.getString("tipo")
-						+"\nPreco: "+ resultado.getDouble("preco")+
-						"\n";
-				
-			} 
-		}catch (ClassNotFoundException ex) {
-			Logger.getLogger(ProdutoDAOBD.class.getName()).log(Level.SEVERE, null, ex);
-		}catch (SQLException ex) {
-			Logger.getLogger(ProdutoDAOBD.class.getName()).log(Level.SEVERE, null, ex);
-		}
-		return (produtos);
-	}
-*/
+
 }//fim da classe
