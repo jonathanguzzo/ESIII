@@ -3,7 +3,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Documentacao"/>
 	<classpathentry kind="src" path="DocumentacaoFacebook"/>
+	<classpathentry kind="src" path="banco"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/workspace/PublicidadeFacebook/postgresql-9.3-1101.jdbc41.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -11,7 +11,7 @@ Buscar: <Porto Alegre>              PESQUISAR
 SAÍDA
 
 O sistema deve listar os posts da seguinte maneira: 
-Id - Nome da cidade - UF - Post
+ Nome do Usuario - Titulo - Post - Cidade
 
 
-1 - Porto Alegre - RS - Lerolerolerolerolerolero
+Fulano de tal- Titulo de tal - lero lero lero... -Porto Alegre 
