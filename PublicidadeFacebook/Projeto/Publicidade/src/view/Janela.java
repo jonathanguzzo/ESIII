@@ -25,6 +25,7 @@ public class Janela extends JFrame {
 	JLabel lbAviso, lbPesquisar;
 	JTextField txPesquisar;
 	JPanel pnAviso, pnPesquisar, pnMostrar;
+	JTextArea txaArea;
 
 	
 	
@@ -36,7 +37,7 @@ public class Janela extends JFrame {
 		iniciaComponentes();
 		
 		this.setSize(400, 300);
-		this.setResizable(false);
+		this.setResizable(true);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setVisible(true);
 	}
@@ -57,7 +58,9 @@ public class Janela extends JFrame {
 		btPesquisar = new JButton("Pesquisar");
 		pnPesquisar.add(btPesquisar);
 		btPesquisar.addActionListener(new trataBotoes());
-		this.add(pnPesquisar, BorderLayout.CENTER);
+		txaArea = new JTextArea();
+		this.add(txaArea, BorderLayout.CENTER);
+		this.add(pnPesquisar, BorderLayout.SOUTH);
 		
 	}
 	
@@ -85,15 +88,25 @@ public class Janela extends JFrame {
 		            		+ "where post.idCidade = cidade.idCidade and post.idUsuario = usuario.idUsuario and cidade.nomeCidade = '"+txPesquisar.getText() + "'");
 		           
 		            ResultSet rs = st.getResultSet();
-		         
+		            String s = "";
 		            while (rs.next()) {
-		                System.out.print(rs.getString("nomeUsuario") + ", ");
+/*		                System.out.print(rs.getString("nomeUsuario") + ", ");
 		                System.out.print(rs.getString("titulo") + ", ");
 		                System.out.print(rs.getString("descricao") + ", ");
 		                System.out.print(rs.getString("nomeCidade"));
-		                System.out.println();    
+		                System.out.println(); */   
+		                
+		                s+=(rs.getString("nomeUsuario") + ", ");
+		                s+=(rs.getString("titulo") + ", ");
+		                s+=(rs.getString("descricao") + ", ");
+		                s+=(rs.getString("nomeCidade"));
+		                s+="\n";
+		                
+		                
 		                
 		            }
+		            
+		            txaArea.setText(s);
 		           
 		        } catch (SQLException | ClassNotFoundException e1) {
 		            JOptionPane.showMessageDialog(rootPane, e1);
